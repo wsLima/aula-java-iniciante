@@ -16,4 +16,5 @@ public class Loja {
     private String nome;
     private String descricao;
     private String categoria;
+    private String CNPJ;
 }
